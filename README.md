@@ -1,1 +1,1 @@
-# DAT490
+# Brain tumor detection
